@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Presidents</string>
+    <string name="add_new_president">Add New President</string>
+    <string name="name">Name</string>
+    <string name="election_date">Election Date</string>
+    <string name="add">ADD</string>
+    <string name="go_back">GO BACK</string>
+    <string name="country">Country</string>
+    <string name="image">Image</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="asc">Asc</string>
+    <string name="desc">Desc</string>
+    <string name="sort_by_date">Sort by Date</string>
+    <string name="do_you_want_to_delete_the_president">Do you want to delete the president?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
