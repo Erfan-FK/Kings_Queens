@@ -17,17 +17,15 @@ Developed for Android using Java, XML, and SQLite, this app lets you honor histo
 
 ## Screenshots
 
-| Empty List | List |
-|:------------------:|:--------:|
-| ![Empty List](/screenshots/empty_list.png) | ![list](/screenshots/list.png) | ![Create Account](/screenshots/create_account.png) |
+| Empty List | List | Sort By |
+|:------------------:|:--------:|:--------------:|
+| ![Empty List](/screenshots/empty_list.png) | ![list](/screenshots/list.png) | ![Create Account](/screenshots/create_account.png) | ![sort_by](/screenshots/sort_by.png) |
 
-| Sort By| Sort Order|
-|:--------------:|:---------------:|
-| ![sort_by](/screenshots/sort_by.png) | ![Google Firebase](/screenshots/sort_order.png) |
+| Add New | Sort Order||
+|:--------------:|:---------------:|:---------------:|
+| ![Add New](/screenshots/adding.png)| ![Google Firebase](/screenshots/sort_order.png) | ![Empty](/screenshots/empty.png) 
 
-| Add New | 
-|:--------------------:|
-| ![Add New](/screenshots/adding.png) |
+
 
 
 
