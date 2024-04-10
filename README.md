@@ -13,8 +13,8 @@ Developed for Android using Java, XML, and SQLite, this app lets you honor histo
 - Android Studio
 - Java & XML
 - SQLite
-- APIs for image retrieval
-- 
+- Google Image API for image search & retrieval
+
 ## Screenshots
 
 | Empty List | List |
