@@ -19,11 +19,11 @@ Developed for Android using Java, XML, and SQLite, this app lets you honor histo
 
 | Empty List | List | Sort By |
 |:------------------:|:--------:|:--------------:|
-| ![Empty List](/screenshots/empty_list.png) | ![list](/screenshots/list.png) | ![Create Account](/screenshots/create_account.png) | ![sort_by](/screenshots/sort_by.png) |
+| ![Empty List](/screenshots/empty_list.png) | ![list](/screenshots/list.png) | ![sort_by](/screenshots/sort_by.png) |
 
 | Add New | Sort Order||
 |:--------------:|:---------------:|:---------------:|
-| ![Add New](/screenshots/adding.png)| ![Google Firebase](/screenshots/sort_order.png) | ![Empty](/screenshots/empty.png) 
+| ![Add New](/screenshots/adding.png)| ![Google Firebase](/screenshots/sort_order.png) | 
 
 
 
